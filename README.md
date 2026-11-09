@@ -33,7 +33,7 @@ I'm continuously learning and building projects to improve my technical skills a
 - JavaScript
 
 **Web Technologies**
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
@@ -62,10 +62,6 @@ A personal portfolio website showcasing my technical skills, projects, and devel
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 3. Diabetes Predictor App
-A machine learning-based application that predicts diabetes risk using health-related parameters.
-
-**Technologies:** Python, Machine Learning, Streamlit
 
 ---
 
